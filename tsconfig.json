@@ -19,6 +19,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/components/Room.jsx", "src/pages/components/Login.jsx", "src/pages/components/VideoSpaces.jsx", "src/pages/components/VideoTile.jsx"],
   "exclude": ["node_modules"]
 }
